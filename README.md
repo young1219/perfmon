@@ -966,6 +966,9 @@ Tools → Device Manager
    - . ./env.sh 실행
 3. Guider 실행
    - python3 /data/guider.py ctop -o -q TCPSERVER:55555 실행
+4. app에서 수신하는 Guider 데이터 확인
+   - python3 /data/guider.py cli "resmon" -q TCPSERVER:55555
+   - python3 /data/guider.py cli "sysinfo" -q TCPSERVER:55555
 
 **서버 주소 직접 변경:**
 `app/src/main/java/com/oss/perfmon/config/ServerConfig.kt`에서 HOST 수정:
