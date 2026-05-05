@@ -1,0 +1,6 @@
+1. doc/plan_장수민.md 파일 만들기 (DONE)
+2. README.md 읽고 전체 동작구조 파악하기 (TBD)
+3. 개발 환경 설정 (Android Studio + guider 서버 연동) (TBD)
+4. 코드 읽기 - MVVM 레이어별 흐름 직접 따라가 보기 (TBD)
+5. Git 협업 실습 - 브랜치 전략, PR, 코드리뷰 경험 (TBD)
+6. 작은 기능 추가 또는 UI 개선 기여 (TBD)
